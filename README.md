@@ -1,8 +1,8 @@
-# FIAP challenge food
+# FIAP - Tech Challenge People API
 
 > FIAP pós Software Architecture - Tech Challenge People Microservices
-> 
-> [![CI/CD](https://github.com/fabianogoes/fiap-tech-challenge-people-api/actions/workflows/deploy.yml/badge.svg)](https://github.com/fabianogoes/fiap-tech-challenge-restaurant-api/actions/workflows/deploy.yml)
+
+[![CI/CD](https://github.com/fabianogoes/fiap-tech-challenge-people-api/actions/workflows/deploy.yml/badge.svg)](https://github.com/fabianogoes/fiap-tech-challenge-people-api/actions/workflows/deploy.yml)
 
 Table of context
 - [FIAP challenge food](#fiap-challenge-food)
